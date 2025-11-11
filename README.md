@@ -23,6 +23,9 @@ of Minecraft Bedrock Edition.**
 WE _AS CONTRIBUTORS_ ARE NOT RESPONSIBLE FOR ANY DAMAGE OR LOSS CAUSED BY THIS APP.
 USE AN ALT ACCOUNT, JUST IN CASE THERE IS AN ISSUE WITH THIS METHOD.**
 
+## NOTICE
+[Use this actively maintained project that was inspired by this project](https://github.com/LucienHH/bedrock-portal)
+
 ## About
 
 This is a project for minecraft bedrock/(java with geyser) that allows you to join servers via the in game friends tab. The most notable differing factor is, that console players can connect to servers without using an advanced method.
